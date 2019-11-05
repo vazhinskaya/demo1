@@ -5,13 +5,11 @@
 /bin
 
 .idea/
-/.idea
 
 *.iml
 
 /target
-target/
 
 
 
-*/target/*
+
